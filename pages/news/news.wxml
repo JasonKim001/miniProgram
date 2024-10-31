@@ -1,0 +1,26 @@
+<!--pages/news/news.wxml-->
+<text>pages/news/news.wxml</text>
+
+<view class="box">块级元素</view>
+
+<text>Text 文本</text>
+
+<swiper class="swiper" autoplay indicator-dots>
+  <swiper-item>item1</swiper-item>
+  <swiper-item>item2</swiper-item>
+  <swiper-item>item3</swiper-item>
+</swiper>
+
+<!-- 可滚动视图区域。滑块 -->
+<scroll-view calss="scroll-view" scroll-x="true">
+  <text>1</text>
+  <text>2</text>
+  <text>3</text>
+  <text>4</text>
+  <text>5</text>
+  <text>6</text>
+  <text>7</text>
+  <text>8</text>
+  <text>9</text>
+  <text>10</text>
+</scroll-view>

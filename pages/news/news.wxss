@@ -1,0 +1,22 @@
+/* pages/news/news.wxss */
+.box{
+  background-color: pink;
+  height: 200rpx;
+}
+
+.swiper{
+  background-color: pink;
+}
+
+.scroll-view{
+  margin: 20px 0;
+}
+.scroll-view text{
+  display: inline-block;
+  width: 80rpx;
+  margin: 0 10px;
+}
+
+text{
+  background-color: yellow;
+}
