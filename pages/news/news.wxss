@@ -5,7 +5,7 @@
 }
 
 .swiper{
-  background-color: pink;
+  background-color: rgb(223, 127, 194);
 }
 
 .scroll-view{
@@ -13,8 +13,8 @@
 }
 .scroll-view text{
   display: inline-block;
-  width: 80rpx;
-  margin: 0 10px;
+  width: 100rpx;
+  margin: 10 10px;
 }
 
 text{

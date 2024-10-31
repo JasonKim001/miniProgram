@@ -24,3 +24,10 @@
   <text>9</text>
   <text>10</text>
 </scroll-view>
+<icon type="success" size="40"></icon>
+<icon type="waiting" size="40"></icon>
+<!-- 进度条 -->
+<view>
+  <progress percent="20" show-info="true"></progress>
+</view>
+

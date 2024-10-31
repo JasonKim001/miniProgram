@@ -3,5 +3,22 @@
   "projectname": "mini-01",
   "setting": {
     "compileHotReLoad": true
+  },
+  "condition": {
+    "miniprogram": {
+      "list": [
+        {
+          "name": "pages/news/news",
+          "pathName": "pages/news/news",
+          "query": "",
+          "launchMode": "default",
+          "scene": null,
+          "partialCompile": {
+            "enabled": true,
+            "pages": []
+          }
+        }
+      ]
+    }
   }
 }
